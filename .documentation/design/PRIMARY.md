@@ -18,12 +18,17 @@
 
 ## @CommandOrder `annotation`
 
-## @CommandLabel `annotation`
+## @Argument `annotation`
 
 ## @TabComplete `annotation`
+
+- 提供一个 key 用于 Parser返回补全信息。
+- 提供一个 ParserProvider 用于返回对应补全。
 
 ## @AsyncCommand `annotation`
 
 ## @CommandAlias `annotation`
+
+## @SimplyCommand `annotation`
 
 ## @Sender `annotation`
